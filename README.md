@@ -1,4 +1,4 @@
-# Agent Check: d3
+# Agent Check: d3 SOAR
 
 ## Overview
 
