@@ -1,0 +1,31 @@
+{
+  "display_name": "d3",
+  "maintainer": "sysint@d3security.com",
+  "manifest_version": "1.0.0",
+  "name": "d3",
+  "metric_prefix": "d3.",
+  "metric_to_check": "",
+  "creates_events": false,
+  "short_description": "",
+  "guid": "75843653-3237-427c-946f-578c1ba00cb8",
+  "support": "contrib",
+  "supported_os": [
+    "linux",
+    "mac_os",
+    "windows"
+  ],
+  "public_title": "d3",
+  "categories": [
+    ""
+  ],
+  "type": "check",
+  "is_public": false,
+  "integration_id": "d3",
+  "assets": {
+    "dashboards": {},
+    "saved_views": {},
+    "monitors": {},
+    "service_checks": "assets/service_checks.json",
+    "logs": {}
+  }
+}
